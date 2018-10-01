@@ -38,10 +38,10 @@ namespace APIE
             return bugList;
         }
 
-        public void VanquishBug(List<string> bugList)
-        {
-            var removeBug = bugList.Remove(bugList);
+        //public void VanquishBug(List<string> bugList)
+        //{
+        //    var removeBug = bugList.Remove(bugList);
 
-        }
+        //}
     }
 }
