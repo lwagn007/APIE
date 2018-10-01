@@ -10,6 +10,8 @@ namespace APIE
     {
         static void Main(string[] args)
         {
+            ProgramUI program = new ProgramUI();
+            program.Begin();
         }
     }
 }
